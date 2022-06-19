@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>OpenShift Test app</h1>
+      <h1>OpenShift Test app by hiroko</h1>
     </div>
   );
 }
